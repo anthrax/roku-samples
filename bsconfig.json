@@ -1,0 +1,9 @@
+{
+    "files": [
+        "**/*"
+    ],
+    "plugins": [
+        "@rokucommunity/bslint"
+    ],
+    "rootDir": "./channel"
+}

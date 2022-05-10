@@ -1,0 +1,20 @@
+{
+    "name": "roku-samples",
+    "version": "0.1.0",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/_.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/_/issues"
+    },
+    "homepage": "https://github.com/_#README",
+    "devDependencies": {
+        "@rokucommunity/bslint": "^0.6.0",
+        "brighterscript": "^0.45.1"
+    },
+    "dependencies": {}
+}

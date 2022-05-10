@@ -1,0 +1,60 @@
+{
+    "[brightscript]": {
+        "editor.defaultFormatter": "RokuCommunity.brightscript"
+    },
+    "brightscript.format.compositeKeywords": "split",
+    "brightscript.format.formatIndent": true,
+    "brightscript.format.formatInteriorWhitespace": true,
+    "brightscript.format.formatSingleLineCommentType": "singlequote",
+    "brightscript.format.insertSpaceBeforeFunctionParenthesis": false,
+    "brightscript.format.insertSpaceBetweenEmptyCurlyBraces": false,
+    "brightscript.format.keywordCase": "lower",
+    "brightscript.format.keywordCaseOverride": {
+        "and": "upper",
+        "not": "upper",
+        "or": "upper"
+    },
+    "brightscript.format.removeTrailingWhiteSpace": true,
+    "brightscript.format.typeCase": "title",
+    "editor.detectIndentation": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "editor.rulers": [
+        130
+    ],
+    "editor.tabSize": 4,
+    "editor.trimAutoWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.watcherExclude": {
+        "**/node_modules/**": false
+    },
+    "files.trimTrailingWhitespace": true,
+    "gitlens.codeLens.enabled": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "search.exclude": {
+        "**/node_modules": false
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "xml.fileAssociations": [
+        {
+            "systemId": "./RokuSceneGraph.xsd",
+            "pattern": "components/*.xml"
+        },
+        {
+            "systemId": "./RokuSceneGraph.xsd",
+            "pattern": "components/**/*.xml"
+        }
+    ],
+    "xml.format.enabled": false
+}

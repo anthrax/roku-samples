@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ibm.output-colorizer",
+        "redhat.vscode-xml",
+        "rokucommunity.brightscript",
+        "shardulm94.trailing-spaces"
+    ],
+    "unwantedRecommendations": [
+        "esbenp.prettier-vscode"
+    ]
+}
